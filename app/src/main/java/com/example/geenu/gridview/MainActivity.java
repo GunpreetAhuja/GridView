@@ -15,7 +15,7 @@ public class MainActivity extends ActionBarActivity {
 
     GridView gv;
     static final String no[] = new String[] {"1", "2", "3", "4", "5"};
-    static final String name[] = new String[] {"ad", "dff", "djh", "angry bird", "hbg"};
+    static final String name[] = new String[] {"Special", "Different", "Daring", "Angry Bird", "Humorous"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
